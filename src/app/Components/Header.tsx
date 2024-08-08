@@ -76,11 +76,11 @@ const Header = () => {
         </nav>
         </div>
         <div className="hidden lg:flex items-center space-x-4">
-          <Link href="/login" className="text-[16px] text-slate-900 hover:text-gray-900">
+          <Link href="/" className="text-[16px] text-slate-900 hover:text-gray-900">
             Log In
           </Link>
           <Link
-            href="/signup"
+            href="/"
             className="bg-white border-[3px] border-slate-900 text-slate-900 px-4 py-2 rounded-md hover:bg-gray-100"
           >
             Sign Up Now
